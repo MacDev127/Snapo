@@ -46,6 +46,7 @@ h1 {
     color: #ffb703;
     font-weight: 800;
     letter-spacing: 10px;
+    padding-bottom: 40px;
 }
 
 .section-hero h2 span {
@@ -53,6 +54,7 @@ h1 {
     font-weight: 800;
     letter-spacing: 10px;
     padding-left: 10px;
+    text-align: justify;
 }
 
 h2 {
